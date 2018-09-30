@@ -1,3 +1,5 @@
 hello world
 I'LL make
 (한칸 띄우고 저장하기)
+
+hello world 빨간표시 생기면 엔터를 안쳤다는 뜻입니다
